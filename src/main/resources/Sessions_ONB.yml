@@ -1,0 +1,17 @@
+Test_Android:
+   OS: ANDROID
+   BUILD_VERSION : '12'
+   APP_NAME: app-mobilebanking-sitRelease265.apk
+   DEVICE_ID: 'Android GoogleAPI Emulator'
+   PLATFORM_VERSION: '9.0'
+   DEVICE_NAME: Galaxy S9
+   APPIUM_IP: 0.0.0.0
+   APPIUM_PORT: '4726'
+   BOOTSTRAP: '1238'
+   UNAME: Brainlara1 
+   APP_LANG: English
+   APP: https://github.com/saucelabs/sample-app-mobile/releases/download/2.7.1/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+   ACCESS_KEY: 'b82e3332-265f-4ef1-83a9-d608b128c9f7'
+   SAUCELABS_URL: 'ondemand.us-west-1.saucelabs.com/wd/hub'
+   HOST: 'CLOUD'
+   
